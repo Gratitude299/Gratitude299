@@ -1,7 +1,7 @@
- Hi 👋 
-I’m Rufai ShUukurat Temitope
-I’m currently learning frontend development, and i wish to make new friends.
-You can reach me on https://twitter.com/@GratitudeEmpire
+Hi 👋   
+I’m Rufai ShUukurat Temitope  
+I’m currently learning frontend development, and i wish to make new friends. 
+You can reach me on https://twitter.com/@GratitudeEmpire 
 Looking forward to meeting you.
 
 <!---
